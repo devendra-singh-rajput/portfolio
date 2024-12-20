@@ -13,42 +13,42 @@ const Projects = () => {
     const projectJson = [
         {
           title: 'Portfolio',
-          desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
+          desc: 'A React.js-based portfolio showcasing skills, projects, and achievements with a modern, user-friendly interface. Visitors can easily explore the work and download a professional resume.',
           image: Portfolio,
           live: "#",
-          github: "https://github.com/rohitsingh93300/portfolio"
+          github: "https://github.com/devendra-singh-rajput/portfolio.git"
         },
         {
           title: 'E-Commerce',
-          desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
+          desc: 'A comprehensive E-commerce platform with an admin panel featuring a graphical dashboard to manage orders, products, and website customization. Users can easily browse, add products to the cart, place orders, and view their order history.',
           image: Ecommerce,
           live: "#",
           github: "https://github.com/devendra-singh-rajput/E-commerce-web.git"
         },
         {
           title: 'ExamEasy',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'Exam Easy" is a secure online exam platform where teachers can create exams, upload student data via Excel, and send email invitations. It includes anti-cheating features like face recognition, voice recording, and automatic submission on tab changes or screenshots.',
           image: ExamEasy,
           live: "https://exam-easy.netlify.app/",
           github: "https://github.com/Nikeshjaiswal55/ExamPortalBackend.git"
         },
         {
           title: 'AirForce Form',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'The Air Force admission form is built with over 50 input fields, using HTML, CSS, and JavaScript for validation. The form features a clean, user-friendly interface with a focus on visual appeal and functionality.',
           image: AirForce,
           live: "https://www.linkedin.com/posts/devendra-singh-rajput_excited-to-share-that-ive-developed-an-activity-7237750740507590657-SmA6?utm_source=share&utm_medium=member_desktop",
           github: "https://github.com/devendra-singh-rajput/Air-Force-Admission-from.git"
         },
         {
           title: 'UrlShortner',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'The URL Shortener allows users to paste their URLs and get a shortened version, with the ability to track how many times the shortened URL has been clicked. It also features user login functionality, enabling users to monitor and manage their shortened URLs',
           image: UrlShortner,
           live: "#",
           github: "https://github.com/devendra-singh-rajput/URL-shortner.git"
         },
         {
           title: 'Login Signup',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'The Login and Sign-Up project features a beautiful, responsive UI that adapts seamlessly to all devices. It includes form validation to ensure accurate and secure user input, providing an intuitive and user-friendly experience across desktops, tablets, and mobile devices.',
           image: Login,
           live: "https://devendra-singh-rajput.github.io/animated-login-sing-up-from/",
           github: "https://github.com/devendra-singh-rajput/animated-login-sing-up-from.git"
