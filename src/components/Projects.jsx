@@ -13,21 +13,21 @@ const Projects = () => {
     const projectJson = [
         {
           title: 'Portfolio',
-          desc: 'A React.js-based portfolio showcasing skills, projects, and achievements with a modern, user-friendly interface. Visitors can easily explore the work and download a professional resume.',
+          desc: 'A React.js-based portfolio showcasing skills, projects, and achievements with a modern, user-friendly interface. Visitors can easily explore the work, social media and download a professional resume.',
           image: Portfolio,
           live: "#",
           github: "https://github.com/devendra-singh-rajput/portfolio.git"
         },
         {
           title: 'E-Commerce',
-          desc: 'A comprehensive E-commerce platform with an admin panel featuring a graphical dashboard to manage orders, products, and website customization. Users can easily browse, add products to the cart, place orders, and view their order history.',
+          desc: 'A React.js-based e-commerce platform with an admin panel featuring a graphical dashboard to manage orders, products, and website customization. Users can browse, add products to the cart, place orders, and view order history.',
           image: Ecommerce,
           live: "#",
           github: "https://github.com/devendra-singh-rajput/E-commerce-web.git"
         },
         {
           title: 'ExamEasy',
-          desc: 'Exam Easy" is a secure online exam platform where teachers can create exams, upload student data via Excel, and send email invitations. It includes anti-cheating features like face recognition, voice recording, and automatic submission on tab changes or screenshots.',
+          desc: '"Exam Easy" is a secure online exam platform where teachers can create exams, and send email invitations. It features anti-cheating measures like face recognition, voice recording, and automatic submission on tab changes or screenshots.',
           image: ExamEasy,
           live: "https://exam-easy.netlify.app/",
           github: "https://github.com/Nikeshjaiswal55/ExamPortalBackend.git"
@@ -41,14 +41,14 @@ const Projects = () => {
         },
         {
           title: 'UrlShortner',
-          desc: 'The URL Shortener allows users to paste their URLs and get a shortened version, with the ability to track how many times the shortened URL has been clicked. It also features user login functionality, enabling users to monitor and manage their shortened URLs',
+          desc: 'The URL Shortener allows users to paste URLs and get a shortened version, with tracking features for clicks. It also includes login functionality, enabling users to manage and monitor their shortened URLs.',
           image: UrlShortner,
           live: "#",
           github: "https://github.com/devendra-singh-rajput/URL-shortner.git"
         },
         {
           title: 'Login Signup',
-          desc: 'The Login and Sign-Up project features a beautiful, responsive UI that adapts seamlessly to all devices. It includes form validation to ensure accurate and secure user input, providing an intuitive and user-friendly experience across desktops, tablets, and mobile devices.',
+          desc: 'The Login and Sign-Up project features a beautiful, responsive UI that adapts seamlessly to all devices. It includes form validation to ensure accurate and secure user input across desktops, tablets, and mobile devices',
           image: Login,
           live: "https://devendra-singh-rajput.github.io/animated-login-sing-up-from/",
           github: "https://github.com/devendra-singh-rajput/animated-login-sing-up-from.git"
