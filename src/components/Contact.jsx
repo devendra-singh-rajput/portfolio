@@ -40,8 +40,11 @@ const Contact = () => {
   )
   .then(
     (response) => {
-      console.log('SUCCESS!', response.status, response.text);
+      console.log('SUCCESS!', response.status, response);
       setIsSent(true); // Updates the state if email is sent successfully
+      setTimeout(() => {
+        setIsSent(false);
+      }, 3000);
     },
     (error) => {
       console.error('FAILED...', error); // Logs any errors
